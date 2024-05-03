@@ -101,37 +101,31 @@
   "certificates": [
     {
       "name": "Construction Site Management",
-      "date": "2019-08-01",
       "issuer": "University of Minnesota",
       "url": "https://erosion.umn.edu/courses-registration"
     },
     {
       "name": "Bituminous Street Inspector Certification (BSIC)",
-      "date": "2017-04-01",
       "issuer": "MnDOT",
       "url": "https://www.dot.state.mn.us/technical-certification/courses/bsic.html"
     },
     {
       "name": "Bituminous Mix Designer Certification (BMDC)",
-      "date": "2017-04-15",
       "issuer": "MnDOT",
       "url": "https://www.dot.state.mn.us/technical-certification/courses/bmdc.html"
     },
     {
       "name": "Concrete Field Inspector Certification (CFIC)",
-      "date": "2017-03-17",
       "issuer": "MnDOT",
       "url": "https://www.dot.state.mn.us/technical-certification/courses/cfic.html"
     },
     {
       "name": "Concrete Plant Tester Certification (CPTC)",
-      "date": "2018-09-10",
       "issuer": "MnDOT",
       "url": "https://www.dot.state.mn.us/technical-certification/courses/cptc.html"
     },
     {
       "name": "Grading and Base Inspector Certification (GBIC)",
-      "date": "2018-09-14",
       "issuer": "MnDOT",
       "url": "https://www.dot.state.mn.us/technical-certification/courses/gbic.html"
     }
