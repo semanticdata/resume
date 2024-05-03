@@ -79,7 +79,7 @@ npm install --save-dev husky
 # Initiate Husky
 npx husky init
 
-# Adding a New Hook
+# Add a New Hook
 echo "npm run validate" > .husky/pre-commit
 ```
 
