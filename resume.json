@@ -127,7 +127,12 @@
   "skills": [
     {
       "name": "Contract Administration",
-      "keywords": ["Requisitions", "Contract Prep.", "Plan Review"]
+      "keywords": [
+        "Requisitions",
+        "Plan Review",
+        "Change Orders",
+        "Procurement"
+      ]
     },
     {
       "name": "Project Management",
@@ -137,11 +142,11 @@
   "languages": [
     {
       "language": "English",
-      "fluency": "EF SET 97/100."
+      "fluency": "EF SET 97/100"
     },
     {
       "language": "Spanish",
-      "fluency": "native speaker."
+      "fluency": "Native Speaker"
     }
   ],
   "interests": [
@@ -149,18 +154,17 @@
       "name": "Public Infrastructure"
     },
     {
-      "name": "Computer Programming",
-      "keywords": ["Web Development"]
+      "name": "Web Development"
     }
   ],
   "references": [
     {
       "name": "Jereld Hanson",
-      "reference": "651-308-7069"
+      "reference": "(651) 308-7069"
     },
     {
       "name": "Elias Castillo",
-      "reference": "612-402-6401"
+      "reference": "(612) 402-6401"
     },
     {
       "name": "Richard Stevens",
