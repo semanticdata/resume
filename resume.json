@@ -175,28 +175,24 @@
     {
       "name": "City of Bloomington Pavement Management Program",
       "startDate": "2019-03",
-      "endDate": "2019-11",
       "summary": "Design and inspection of resurfacing of residential roads and new bike trails.",
       "highlights": ["Approx. cost: US$785,000"]
     },
     {
       "name": "Blue Line Intrusion Detection System Upgrade",
       "startDate": "2021-03",
-      "endDate": "2021-12",
       "summary": "New installation and demolition of the intrusion detection system, strobes, twc loops, wall mounted cabinets, electrical/communication conduits, junction boxes, and wiring.",
       "highlights": ["Approx. cost: US$440,000"]
     },
     {
       "name": "Northtown Transit Center Reconstruction",
-
-      "endDate": "2022-03",
+      "startDate": "2021-09",
       "summary": "Demolition and reconstruction of existing facility and surrounding parking lots. Installation of prefabricated bathroom, CCTV survaillance system, new street lighting.",
       "highlights": ["Approx. cost: US$1,070,000"]
     },
     {
       "name": "Metro Transit Police Department Substation Rehab",
       "startDate": "2021-12",
-
       "summary": "Rehabilitation of previously public space into Metro Transit Police Department's newest substation in downtown Saint Paul.",
       "highlights": ["Approx. cost: US$880,000"]
     }
