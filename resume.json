@@ -11,8 +11,6 @@
     "url": "https://miguelpimentel.do/",
     "summary": "Asst. Contract Administrator with more than 8 years experience in a wide range of infrastructure projects. Proficient in managing underground utilities and earthwork projects. Additionally, I have experience in rehabilitating and reconstructing public facilities.",
     "location": {
-      "address": "N/A",
-      "postalCode": "N/A",
       "city": "Bloomington",
       "countryCode": "US",
       "region": "MN"
@@ -20,7 +18,6 @@
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "N/A",
         "url": "https://www.linkedin.com/in/miguelpimentel29"
       }
     ]
@@ -79,7 +76,6 @@
       "url": "https://iacocyc.com/",
       "startDate": "2010-02",
       "endDate": "2014-03",
-      "summary": "N/A",
       "highlights": [
         "Regularly conducted site visits to verify compliance with construction plans.",
         "Assisted with survey, design, planning, and construction of water and sewage systems."
@@ -92,10 +88,8 @@
       "url": "https://www.intec.edu.do/",
       "area": "Civil Engineering",
       "studyType": "183/275 semester credits towards Bachelor's Degree (incomplete)",
-      "startDate": "2009-08-06",
-      "endDate": "2014-07",
-      "score": "N/A",
-      "courses": ["N/A"]
+      "startDate": "2009-08",
+      "endDate": "2014-07"
     }
   ],
   "certificates": [
@@ -152,8 +146,7 @@
   ],
   "interests": [
     {
-      "name": "Public Infrastructure",
-      "keywords": ["N/A"]
+      "name": "Public Infrastructure"
     },
     {
       "name": "Computer Programming",
