@@ -1,0 +1,217 @@
+{
+  "meta": {
+    "theme": "rickosborne"
+  },
+  "basics": {
+    "name": "Miguel Pimentel",
+    "label": "Asst. Contract Administrator",
+    "image": "https://raw.githubusercontent.com/semanticdata/semanticdata.github.io/master/static/img/avatar.webp",
+    "email": "mglpmntl@gmail.com",
+    "phone": "(952) 855-3270",
+    "url": "https://miguelpimentel.do/",
+    "summary": "Asst. Contract Administrator with more than 8 years experience in a wide range of infrastructure projects. Proficient in managing underground utilities and earthwork projects. Additionally, I have experience in rehabilitating and reconstructing public facilities.",
+    "location": {
+      "address": "N/A",
+      "postalCode": "N/A",
+      "city": "Bloomington",
+      "countryCode": "US",
+      "region": "MN"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "N/A",
+        "url": "https://www.linkedin.com/in/miguelpimentel29"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Metropolitan Council",
+      "position": "Asst. Contract Administrator",
+      "url": "https://metrocouncil.org/",
+      "startDate": "2020-06",
+      "endDate": "2024-02",
+      "summary": "Administer construction contracts ensuring that budget, quality, and schedule goals are achieved…",
+      "highlights": [
+        "Coordinate contract reviews and proposed changes, ensuring adherence to project schedules and costs.",
+        "Oversee projects through installation, construction, and commissioning phases, ensuring compliance with contract specifications.",
+        "Identify potential impacts on project timelines or expenses and implement measures to mitigate risks.",
+        "Manage contract processes, including proposals, evaluations, preparation, and negotiations.",
+        "Monitor procurement, construction, and facility service contracts, managing budgets and recommending revisions as needed.",
+        "Coordinate with regulatory agencies, governmental units, and other stakeholders.",
+        "Participate in contract negotiations, evaluate proposals, and ensure consulting engineers' compliance.",
+        "Assist in-house design preparation, create procurement process documents, and handle change order estimates and negotiations."
+      ]
+    },
+    {
+      "name": "City of Bloomington",
+      "position": "Engineering Technician",
+      "url": "https://www.bloomingtonmn.gov/",
+      "startDate": "2018-09",
+      "endDate": "2020-06",
+      "summary": "Provide manual and technical field and office work in infrastructure design and inspection, traffic and transportation, water resources, property services, data management and GIS under supervision. Work includes a variety of tasks including drafting plans, cost estimates, surveying, inspection, and data management.",
+      "highlights": [
+        "Inspected, managed, and coordinated public infrastructure projects.",
+        "Prepared and produced daily reports and summaries of work performed.",
+        "Designed and drafted plans for residential roads and bike trails.",
+        "Performed quantity tracking and analysis for construction activities."
+      ]
+    },
+    {
+      "name": "City of Minneapolis",
+      "position": "Engineering Technician III - Chief Field Inspector",
+      "url": "https://www.minneapolismn.gov/",
+      "startDate": "2016-08",
+      "endDate": "2018-09",
+      "summary": "Perform specialized high level technical support and design work, act a liaison with other parties for the Professional Engineer in the field, and act as lead worker on a field crew performing construction inspection.",
+      "highlights": [
+        "Acted as liaison between other city departments, residents, and contractors.",
+        "Kept a record of daily activities and work performed.",
+        "Prepared and hosted weekly progress report meetings.",
+        "Kept a record of daily activities and work performed.",
+        "SSampled and tested construction materials, incl. Asphalt, Concrete, and Soils."
+      ]
+    },
+    {
+      "name": "Ingenieros Asociados-Construcciones",
+      "position": "Civil Engineering Technician",
+      "url": "https://iacocyc.com/",
+      "startDate": "2010-02",
+      "endDate": "2014-03",
+      "summary": "N/A",
+      "highlights": [
+        "Regularly conducted site visits to verify compliance with construction plans.",
+        "Assisted with survey, design, planning, and construction of water and sewage systems."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Santo Domingo",
+      "url": "https://www.intec.edu.do/",
+      "area": "Civil Engineering",
+      "studyType": "183/275 semester credits towards Bachelor's Degree (incomplete)",
+      "startDate": "2009-08-06",
+      "endDate": "2014-07",
+      "score": "N/A",
+      "courses": ["N/A"]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Construction Site Management",
+      "date": "2019-08-01",
+      "issuer": "University of Minnesota",
+      "url": "https://erosion.umn.edu/courses-registration"
+    },
+    {
+      "name": "Bituminous Street Inspector Certification (BSIC)",
+      "date": "2017-04-01",
+      "issuer": "MnDOT",
+      "url": "https://www.dot.state.mn.us/technical-certification/courses/bsic.html"
+    },
+    {
+      "name": "Bituminous Mix Designer Certification (BMDC)",
+      "date": "2017-04-15",
+      "issuer": "MnDOT",
+      "url": "https://www.dot.state.mn.us/technical-certification/courses/bmdc.html"
+    },
+    {
+      "name": "Concrete Field Inspector Certification (CFIC)",
+      "date": "2017-03-17",
+      "issuer": "MnDOT",
+      "url": "https://www.dot.state.mn.us/technical-certification/courses/cfic.html"
+    },
+    {
+      "name": "Concrete Plant Tester Certification (CPTC)",
+      "date": "2018-09-10",
+      "issuer": "MnDOT",
+      "url": "https://www.dot.state.mn.us/technical-certification/courses/cptc.html"
+    },
+    {
+      "name": "Grading and Base Inspector Certification (GBIC)",
+      "date": "2018-09-14",
+      "issuer": "MnDOT",
+      "url": "https://www.dot.state.mn.us/technical-certification/courses/gbic.html"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Contract Administration",
+      "keywords": ["Requisitions", "Contract Prep.", "Plan Review"]
+    },
+    {
+      "name": "Project Management",
+      "keywords": ["Budgeting", "Cost Control", "Conflict Resolution"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "EF SET 97/100."
+    },
+    {
+      "language": "Spanish",
+      "fluency": "native speaker."
+    }
+  ],
+  "interests": [
+    {
+      "name": "Public Infrastructure",
+      "keywords": ["N/A"]
+    },
+    {
+      "name": "Computer Programming",
+      "keywords": ["Web Development"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jereld Hanson",
+      "reference": "651-308-7069"
+    },
+    {
+      "name": "Elias Castillo",
+      "reference": "612-402-6401"
+    },
+    {
+      "name": "Richard Stevens",
+      "reference": "(612) 868-0010"
+    }
+  ],
+  "projects": [
+    {
+      "name": "City of Bloomington Pavement Management Program",
+      "startDate": "2019-03",
+      "endDate": "2019-11",
+      "summary": "Design and inspection of resurfacing of residential roads and new bike trails.",
+      "highlights": ["Approx. cost: US$785,000"],
+      "url": "https://"
+    },
+    {
+      "name": "Blue Line Intrusion Detection System Upgrade",
+      "startDate": "2021-03",
+      "endDate": "2021-12",
+      "summary": "New installation and demolition of the intrusion detection system, strobes, twc loops, wall mounted cabinets, electrical/communication conduits, junction boxes, and wiring.",
+      "highlights": ["Approx. cost: US$440,000"],
+      "url": "https://"
+    },
+    {
+      "name": "Northtown Transit Center Reconstruction",
+      "startDate": "2021-09",
+      "endDate": "2022-03",
+      "summary": "Demolition and reconstruction of existing facility and surrounding parking lots. Installation of prefabricated bathroom, CCTV survaillance system, new street lighting.",
+      "highlights": ["Approx. cost: US$1,070,000"],
+      "url": "https://"
+    },
+    {
+      "name": "Metro Transit Police Department Substation Rehab",
+      "startDate": "2021-12",
+      "endDate": "2022-09",
+      "summary": "Rehabilitation of previously public space into Metro Transit Police Department's newest substation in downtown Saint Paul.",
+      "highlights": ["Approx. cost: US$880,000"],
+      "url": "https://"
+    }
+  ]
+}
