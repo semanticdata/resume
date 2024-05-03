@@ -68,7 +68,7 @@ npm run render
 npm run sample
 ```
 
-## ⏳ Automatic Validation Pre-commit Validation
+## ⏳ Automatic Pre-commit Validation
 
 With the help of [Husky](https://typicode.github.io/husky/), a Git hook manager, we can validate our resume automatically before every commit. Preventing us from pushing invalid code. Here's a quick setup guide:
 
