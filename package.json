@@ -7,7 +7,8 @@
     "sample": "resumed init resume.json",
     "render": "resumed render resume.json",
     "validate": "resumed validate resume.json",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky"
   },
   "repository": {
     "type": "git",
@@ -24,5 +25,8 @@
   "homepage": "https://github.com/semanticdata/resume#readme",
   "dependencies": {
     "resumed": "^3.0.1"
+  },
+  "devDependencies": {
+    "husky": "^9.0.11"
   }
 }

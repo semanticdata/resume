@@ -1,6 +1,6 @@
 # 📄 Resume – Miguel Pimentel
 
-Hello, I'm Miguel Pimentel and this repository holds the code for my resume.
+Hello, I'm Miguel Pimentel and this repository holds the code for my [resume](https://registry.jsonresume.org/semanticdata).
 
 [JSON Resume](https://jsonresume.org/) is an open-source initiative to create a JSON-based standard for resumes. I use their project to host my resume.
 
@@ -10,7 +10,7 @@ You can host yours in one of two ways: via GitHub Gist and via a GitHub Reposito
 
 ### Hosting via GitHub Gist
 
-The easy way to host your resume is by making a GitHub Gist name `resume.json` on <gist.github.com>.
+The easy way to host your resume is by making a GitHub Gist name `resume.json` on <https://gist.github.com>.
 
 For example, mine can be found at <https://gist.github.com/semanticdata/a2052f31ac55306c5859777baf2d8e4a> which then automatically gets hosted at <https://registry.jsonresume.org/semanticdata>.
 
@@ -41,7 +41,7 @@ jobs:
 
 ```
 
-## 🚩 Setup - Steps by Step
+## 🚩 Repository Resume Setup
 
 1. Create a gist called `resume.json`.
 2. Create or fork this repo and commit your updated `resume.json` to it.
@@ -53,8 +53,6 @@ jobs:
 ## ✔ Validating your Resume
 
 We use [Resumed](https://www.npmjs.com/package/resumed), a lightweight JSON Resume builder to validate our `resume.json`. This prevents pushing invalid JSON, which will break your resume.
-
-### Setting up Resumed
 
 ```sh
 # Install Resumed
@@ -69,5 +67,22 @@ npm run render
 # Create sample resume
 npm run sample
 ```
+
+## ⏳ Automatic Validation Pre-commit Validation
+
+With the help of [Husky](https://typicode.github.io/husky/), a Git hook manager, we can validate our resume automatically before every commit. Preventing us from pushing invalid code. Here's a quick setup guide:
+
+```sh
+# Install Husky
+npm install --save-dev husky
+
+# Initiate Husky
+npx husky init
+
+# Adding a New Hook
+echo "npm run validate" > .husky/pre-commit
+```
+
+Done! Now our validate script will run before all commits.
 
 Enjoy!
