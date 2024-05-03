@@ -1,22 +1,28 @@
 {
-  "name": "thomasdavis",
+  "name": "miguelpimentel",
   "version": "1.0.0",
-  "description": "This is the resume of Thomas Davis. God of web development.",
+  "description": "This is the resume of Miguel Pimentel.",
   "main": "index.js",
   "scripts": {
+    "sample": "resumed init resume.json",
+    "render": "resumed render resume.json",
+    "validate": "resumed validate resume.json",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thomasdavis/resume.git"
+    "url": "git+https://github.com/semanticdata/resume.git"
   },
   "keywords": [
     "resume"
   ],
-  "author": "Thomas Davis",
+  "author": "Miguel Pimentel",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/thomasdavis/resume/issues"
+    "url": "https://github.com/semanticdata/resume/issues"
   },
-  "homepage": "https://github.com/thomasdavis/resume#readme"
+  "homepage": "https://github.com/semanticdata/resume#readme",
+  "dependencies": {
+    "resumed": "^3.0.1"
+  }
 }
